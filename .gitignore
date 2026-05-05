@@ -1,0 +1,13 @@
+.DS_Store
+.claude/
+
+mandarin/
+kyu/
+hairfit_hack/
+
+screenrecord.mov
+mandarin.mp4
+kyu.mp4
+hairfit.mp4
+
+node_modules/
