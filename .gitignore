@@ -1,13 +1,18 @@
 .DS_Store
 .claude/
 
-mandarin/
-kyu/
-hairfit_hack/
+/mandarin/
+/kyu/
+/hairfit_hack/
+/Stora/
+/single/
+/tomujin/
+/door/
 
-screenrecord.mov
-mandarin.mp4
-kyu.mp4
-hairfit.mp4
+/screenrecord.mov
+/mandarin.mp4
+/kyu.mp4
+/hairfit.mp4
 
 node_modules/
+.vercel
